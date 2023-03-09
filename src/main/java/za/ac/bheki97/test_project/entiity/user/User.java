@@ -1,4 +1,4 @@
-package za.ac.bheki97.test_project.entiity;
+package za.ac.bheki97.test_project.entiity.user;
 
 
 import jakarta.persistence.Entity;
